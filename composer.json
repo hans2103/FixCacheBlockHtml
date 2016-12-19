@@ -1,0 +1,17 @@
+{
+  "name": "hans2103/fixcacheblockhtml",
+  "license": "GPL-3.0",
+  "type": "magento-module",
+  "description": "Magento extension FixCacheBlockHtml. Automatic block html cache refresh.",
+  "homepage": "https://github.com/hans2103/FixCacheBlockHtml",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Hans Kuijpers",
+      "email": "support@hkweb.nl",
+      "role": "Author/Maintainer"
+    }
+  ]
+}
